@@ -1,4 +1,4 @@
-# Responsive-Web-Template-HTML-CSS
+# Responsive Web Template – HTML & CSS
 ## Tech: HTML, CSS, Font Awesome Library
 ## ______________________________________________
 ### • A one-page site with features and sections for many and varied ideas for many sites.
